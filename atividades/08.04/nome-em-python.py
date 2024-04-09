@@ -1,6 +1,6 @@
 # Obter entradas do usuário
-nome = str(input("Digite seu nome: "))
-sobrenome = str(input("Digite seu sobrenome: "))
+nome = str(input("Por favor, digite seu nome: "))
+sobrenome = str(input("Por favor, digite seu sobrenome: "))
 
 # Mostrar sobrenome e primeira letra do nome
 print(sobrenome, ',', nome[0], sep='') # 'sep' usado para resetar o espaço entre as vírgulas
