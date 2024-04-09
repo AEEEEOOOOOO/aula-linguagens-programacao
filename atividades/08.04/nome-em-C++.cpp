@@ -19,7 +19,7 @@ int main()
     // Contar o número de caracteres
     int num_caracteres = nome.size();
 
-    // Mostrar o primeiro caractere
+    // Definir qual posição mostrar
     int ultima_posicao = nome.size() - 1;
 
     //  Imprimir o primeiro nome e última letra dele
